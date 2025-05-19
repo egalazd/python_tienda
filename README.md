@@ -11,3 +11,5 @@ El coste de envío promedio para cada tienda.
 
 Para visualizar este informe, considerar que el codigo fuente esta desarrollado en Python
 correr bajo un entorno donde Python este instalado.
+ejectutar en colab de google drive.
+ir ejeccutando cada uno de los codigos de forma secuencial hasta llegar al informe final
