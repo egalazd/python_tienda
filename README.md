@@ -8,3 +8,6 @@ Las categorías de productos más y menos vendidas.
 Las calificaciones promedio de los clientes por tienda.
 Los productos más y menos vendidos.
 El coste de envío promedio para cada tienda.
+
+Para visualizar este informe, considerar que el codigo fuente esta desarrollado en Python
+correr bajo un entorno donde Python este instalado.
